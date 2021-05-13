@@ -1,0 +1,9 @@
+Video Streaming,A website where you can watch shows, and videos,https://www.youtube.com
+News,A site you can read or watch news,https://www.bbc.com
+Music,Places to stream\download music,https://www.spotify.com/
+Social Media,Social websites for sharing blogs, photos, and videos with family, friends, and peers.,https://www.facebook.com/
+Groceries,Websites for general grocery shopping,https://www.fredmeyer.com/
+Online shopping,Online shops or retailers of goods and services.,https://www.amazon.com
+World of Warcraft,An online multiplayer game made by Blizzard entertainment.,http://www.worldofwarcraft.com
+Service Utilities,Service providers for home utilities (ex: internet, power, gas, electric, and waste removal),https://my.xfinity.com/
+Cellular Provider,Cellular Service providers that provide talk/text/mobile data services.,https://fi.google.com/
